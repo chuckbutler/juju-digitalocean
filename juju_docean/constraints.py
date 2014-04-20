@@ -20,8 +20,6 @@ for s in SIZE_MAP.values():
 
 SIZES_SORTED = (66, 63, 62, 64, 65, 61, 60, 70, 69, 68)
 
-
-
 IMAGE_MAP = {
     'precise': 3100616,
     '12.04': 3100616,
