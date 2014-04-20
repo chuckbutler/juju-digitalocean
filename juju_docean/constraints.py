@@ -20,13 +20,15 @@ for s in SIZE_MAP.values():
 
 SIZES_SORTED = (66, 63, 62, 64, 65, 61, 60, 70, 69, 68)
 
+
+
 IMAGE_MAP = {
-    'precise': 1505447,
-    '12.0.4': 1505447,
-    'raring': 350076,
-    '13.04': 350076,
-    'saucy': 1505699,
-    '13.10': 1505699}
+    'precise': 3100616,
+    '12.04': 3100616,
+    'saucy': 3101918,
+    '13.10': 3101918,
+    'trusty': 3240036,
+    '14.04' : 3240036}
 
 # Record regions so we can offer nice aliases.
 REGIONS = [
